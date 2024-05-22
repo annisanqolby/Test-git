@@ -10,3 +10,6 @@ const indentitas = {
     pesanan : ['nasi kuning', 'nasi uduk', 'nasi lipat'],
 }
 console.log(indentitas)
+
+//nama annisa
+// cantul mantulity
